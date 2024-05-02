@@ -16,15 +16,15 @@
      limitations under the License.
 -->
 <manifest>
-	<project path="device/samsung/gtel3g" name="gtel3g/android_device_samsung_gtel3g" remote="github" revision="lineage-15.1-gtel3"/>
-	<project path="kernel/samsung/gtel3g" name="gtel3g/kernel_samsung_gtel3g" remote="github" revision="los-15.1"/>
-	<project path="vendor/samsung/gtel3g" name="gtel3g/android_vendor_samsung_gtel3g" remote="github" revision="lineage-15.1-gtel3g"/>
-	<project path="device/samsung/scx30g-common" name="gtel3g/android_device_samsung_scx30g-common" remote="github" revision="lineage-15.1-gtel3g"/>
-	<project path="vendor/samsung/scx30g-common" name="gtel3g/android_vendor_samsung_scx30g-common" remote="github" revision="lineage-15.1"/>
+	<project path="device/samsung/gtel3g" name="AMoose84/android_device_samsung_gtel3g" remote="github" revision="lineage-15.1-gtel3g"/>
+	<project path="kernel/samsung/gtel3g" name="AMoose84/kernel_samsung_gtel3g" remote="github" revision="los-15.1"/>
+	<project path="vendor/samsung/gtel3g" name="AMoose84/android_vendor_samsung_gtel3g" remote="github" revision="lineage-15.1-gtel3g"/>
+	<project path="device/samsung/scx30g-common" name="AMoose84/android_device_samsung_scx30g-common" remote="github" revision="lineage-15.1-gtel3g"/>
+	<project path="vendor/samsung/scx30g-common" name="AMoose84/android_vendor_samsung_scx30g-common" remote="github" revision="lineage-15.1"/>
 	<project path="external/stlport" name="LineageOS/android_external_stlport" remote="github" revision="lineage-15.1"/>
 	<!-- project path="packages/apps/SamsungServiceMode" name="LineageOS/android_packages_apps_SamsungServiceMode" remote="github" revision="lineage-15.1"/ -->
-	<project path="device/samsung/sprd-common" name="gtel3g/android_device_samsung_sprd-common" remote="github" revision="lineage-15.1"/>
-	<project path="device/samsung/scx35-common" name="gtel3g/android_device_samsung_scx35-common" remote="github" revision="lineage-15.1"/>
+	<project path="device/samsung/sprd-common" name="AMoose84/android_device_samsung_sprd-common" remote="github" revision="lineage-15.1"/>
+	<project path="device/samsung/scx35-common" name="AMoose84/android_device_samsung_scx35-common" remote="github" revision="lineage-15.1"/>
 	<project path="hardware/sprd" name="gtel3g/android_hardware_sprd" remote="github" revision="lineage-15.1"/>
 	<project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" reivision="lineage-15.1" />
 </manifest>
