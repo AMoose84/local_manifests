@@ -16,10 +16,10 @@
      limitations under the License.
 -->
 <manifest>
-	<project name="AMoose84/android_device_samsung_gtel3g" path="device/samsung/gtel3g" remote="github" revision="lineage-15.1-gtel3g"/>
+	<project name="AMoose84/android_device_samsung_gtel3g" path="device/samsung/gtel3g" remote="github" revision="lineage-15.1"/>
 	<project name="AMoose84/kernel_samsung_gtel3g" path="kernel/samsung/gtel3g" remote="github" revision="los-15.1"/>
-	<project name="AMoose84/android_vendor_samsung_gtel3g" path="vendor/samsung/gtel3g" remote="github" revision="lineage-15.1-gtel3g"/>
-	<project name="AMoose84/android_device_samsung_scx30g-common" path="device/samsung/scx30g-common" remote="github" revision="lineage-15.1-gtel3g"/>
+	<project name="AMoose84/android_vendor_samsung_gtel3g" path="vendor/samsung/gtel3g" remote="github" revision="lineage-15.1"/>
+	<project name="AMoose84/android_device_samsung_scx30g-common" path="device/samsung/scx30g-common" remote="github" revision="lineage-15.1"/>
 	<project name="AMoose84/android_vendor_samsung_scx30g-common" path="vendor/samsung/scx30g-common" remote="github" revision="lineage-15.1"/>
 	<project name="AMoose84/android_device_samsung_sprd-common" path="device/samsung/sprd-common" remote="github" revision="lineage-15.1"/>
 	<project name="AMoose84/android_device_samsung_scx35-common" path="device/samsung/scx35-common" remote="github" revision="lineage-15.1"/>
